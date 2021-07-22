@@ -57,7 +57,7 @@ public class Menu extends JFrame {
 		
 		KGradientPanel gradientPanel = new KGradientPanel();
 		gradientPanel.setkGradientFocus(-10);
-		gradientPanel.setkEndColor(new Color(255, 102, 0));
+		gradientPanel.setkEndColor(new Color(255, 105, 180));
 		gradientPanel.setkStartColor(new Color(51, 255, 255));
 		gradientPanel.setBounds(0, 0, 1144, 630);
 		contentPane.add(gradientPanel);
